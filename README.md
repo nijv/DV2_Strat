@@ -58,7 +58,7 @@ python visual_final_data.py
 - **Sharpe ratio:** 0.93
 - **Trades:** 9,840 total, 6,324 winners (64.3%)
 
-![Strategy Performance](dv2_strategy_performance_dv2_strategy.png)
+![Strategy Performance](https://github.com/nijv/DV2_Strat/blob/main/dv2_strategy_performance_numba_strategy.png)
 
 ## Technical details
 
